@@ -1,1 +1,2 @@
 This is fred 
+I know this is Fred
